@@ -1,6 +1,6 @@
 # My-Repo
 Learning the git 
 
-Contributors - 
+Contributor - 
 Abhi
 Ajay 
